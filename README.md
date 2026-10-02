@@ -16,6 +16,7 @@ Deze website dient als online portfolio om mijn vaardigheden, vakken en projecte
   - IT-basics
   - Project (Local WP)
   - Project Management
+- **Projectenpagina** — eigen pagina (`projecten.html`) met alle projecten als kaarten, inclusief technologieën
 - **Contactformulier** — naam, e-mail en bericht versturen
 - **Sticky navbar** — navigatie blijft zichtbaar bij scrollen
 
@@ -32,11 +33,12 @@ Deze website dient als online portfolio om mijn vaardigheden, vakken en projecte
 ```
 portfolio/
 ├── index.html          # Hoofdpagina
+├── projecten.html      # Projectenpagina
 ├── css/
 │   └── style.css       # Stijlen
 ├── js/
 │   └── main.js         # JavaScript functionaliteit
-├── images/             # Afbeeldingen (toekomstig)
+├── SPECIFICATIE.md      # Wat er gebouwd wordt en waarom
 └── README.md           # Dit bestand
 ```
 
